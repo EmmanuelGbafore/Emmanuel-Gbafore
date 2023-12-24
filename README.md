@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VascoDaEman92
-- 👀 I’m interested in C++,Python, MatLab and Arduino programming
+- 👋 Hi, I’m @Emmanuel Gbafore
+- 👀 I’m interested in C++,Python, MatLab, Arduino programming, Raspberry Pi programming, AI/ML
 - 🌱 I’m currently learning Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on Arduino Projects
+- 💞️ I’m looking to collaborate on any of the above projects
 - 📫 How to reach me egbafore@gmail.com
 
 <!---
