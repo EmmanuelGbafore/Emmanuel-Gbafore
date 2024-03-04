@@ -8,7 +8,7 @@
 -🐍 Python
 -📱 Dart with Flutter
 -📊 Database
-- ⚙️ Matlab: ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+- Matlab: ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 - ##🌱 Currently Learning
 - Masters in Electrical and Electronics Engineering @ the University of Nairobi.
