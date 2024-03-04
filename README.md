@@ -6,7 +6,7 @@
 -🐍 Python
 -📱 Dart with Flutter
 -📊 Database
-- ⚙️ Matlab: <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
+- (path/to/matlab_icon.jpeg) Matlab
 
 
 - ##🌱 Currently Learning
