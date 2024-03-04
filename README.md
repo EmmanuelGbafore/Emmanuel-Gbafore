@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @Emmanuel Gbafore.
-- I'm an enthusiastic learner enrolled in the 16-week Power Learn Program, a comprehensive software development course. Passionate about web technologies, Python, and Dart with Flutter, I am exploring the foundations of software development and actively participating in FreeCodeCamp's Responsive Web Design Certification.  Simultaneously, I'm gaining valuable insights into database management using SQL. A deep passion for coding drives me and I am excited about the opportunities to learn and grow in the dynamic world of technology. When I am not coding you can find me enjoying a book, nature adventure, or testing out a new recipe in the kitchen.
-
-  > "It is in doing that the man is built." - Henry Rollins
+- I'm an enthusiastic learner enrolled in the 16-week Power Learn Program, a comprehensive software development course that covers Web Technologies, Python, Database, and Dart with Flutter. Simultaneously, I am taking FreeCodeCamp's Responsive Web Design Certification. A deep passion for coding drives me and I am excited about the opportunities to learn and grow in the dynamic world of technology. When I am not coding you can find me enjoying a book, adventures out in nature, or testing out a new recipe in the kitchen.
 
 - ## 🚀 Tech Stack
 -🌐 Web Technologies: HTML, CSS, JavaScript
 -🐍 Python
 -📱 Dart with Flutter
 -📊 Database
-- Matlab: ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+- ⚙️ Matlab: <img src="https://img.icons8.com/color/48/000000/matlab.png"/>
+
 
 - ##🌱 Currently Learning
 - Masters in Electrical and Electronics Engineering @ the University of Nairobi.
@@ -23,6 +22,8 @@
 
 🤝 Let's Learn Together:
 I'm eager to connect with fellow learners, beginners, and anyone who shares the excitement of diving into the world of coding. Whether you're a seasoned developer or just starting, let's connect and learn from each other!
+
+> "It is in doing that the man is built." - Henry Rollins
 
 Happy coding! 🚀
 
